@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Build files
+dist/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*
+
+# Logs
+*.log
+
+# Uploaded images (keep the folder)
+backend/uploads/*
+!backend/uploads/.gitkeep

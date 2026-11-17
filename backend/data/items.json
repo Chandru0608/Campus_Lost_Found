@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9d8f63b0-5b1d-4b40-b960-e2fb8fbb5c07",
+    "title": "dscd",
+    "description": "dscdsc",
+    "category": "Electronics",
+    "location": "dscds",
+    "type": "Found",
+    "contact": "dscd",
+    "image": "41bedf8c-df6e-4f1a-8017-68aed53ceda2.jpg",
+    "status": "Claimed",
+    "createdAt": "2026-11-16T18:25:57.237Z",
+    "claimedAt": "2026-11-16T18:26:51.368Z"
+  },
+  {
+    "id": "95b41c9a-86df-4060-bc82-95aeac95811c",
+    "title": "efdf",
+    "description": "ffd",
+    "category": "Other",
+    "location": "egfedf",
+    "type": "Found",
+    "contact": "dvdv",
+    "image": "e2e32dd3-151d-4448-a1ce-718d38457499.jpg",
+    "status": "Claimed",
+    "createdAt": "2026-11-17T05:30:00.846Z",
+    "claimedAt": "2026-11-17T05:31:07.119Z"
+  }
+]

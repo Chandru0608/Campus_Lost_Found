@@ -1,0 +1,10 @@
+import { Router } from "express";
+import { createItem, getItems, getItemById, claimItem } from "../controllers/itemController.js";
+import upload from "../middleware/upload.js";
+import { requireAuth } from "../middleware/auth.js";
+const router = Router();
+router.get("/", getItems);
+router.get("/:id", getItemById);
+router.post("/", requireAuth, upload.single("image"), createItem);
+router.patch("/:id/claim", requireAuth, claimItem);
+export default router;

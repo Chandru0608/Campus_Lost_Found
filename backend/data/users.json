@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1f4a7f5a-f988-40a0-bb10-7e25246a72fa",
+    "name": "ded",
+    "email": "ewdewd@wd",
+    "passwordHash": "$2a$12$OklhjdX64GCQObpnvw0l7uHTrZXyFoazZCxFGf/rdcMOhwt.Re2Hi",
+    "createdAt": "2026-11-16T18:25:32.223Z"
+  },
+  {
+    "id": "77b3c447-420a-44cf-8aee-cb21c65073e0",
+    "name": "fdsfs",
+    "email": "sfsfs@gvsbcs",
+    "passwordHash": "$2a$12$3hzR9CbQQ3OzWl0old/MpOcs4jNVdsrajMTnNak7OabbTUuhJh/U2",
+    "createdAt": "2026-11-17T05:25:38.448Z"
+  }
+]
